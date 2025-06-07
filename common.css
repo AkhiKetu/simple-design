@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 20px;
+}
+nav{
+    background-color: #d5d2d2;
+    padding: 15px;
+    text-align: center;
+}
+nav a{
+    color: #333;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+main{
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #d5d2d2;
+    margin-top: 20px;
+}
