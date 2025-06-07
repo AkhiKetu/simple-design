@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+span{
+    font-weight: bold;
+    color: #2c3e50;
+}
 
 body{
     font-family: Arial, sans-serif;
