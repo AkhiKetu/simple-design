@@ -1,0 +1,12 @@
+main h1{
+    color: #16a085;
+    padding: 10px 0;
+}
+ul{
+    list-style: square;
+    padding-left: 20px;
+}
+li{
+    margin-bottom: 10px;
+    color: #333;
+}
